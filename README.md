@@ -24,5 +24,5 @@
 
 ### 📣 Связь со мной
 
-- 📧 **Email:** [example@example.com](danilpronin225@gmail.com)
+- 📧 **Email:** [danilpronin225@gmail.com](danilpronin225@gmail.com)
 ---
