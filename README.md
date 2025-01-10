@@ -1,4 +1,4 @@
-# Привет, я [Твое имя] 👾
+# Привет, я Lorso 👾
 
 ![Banner](https://github.com/your_username/your_username/blob/main/header_image.png)
 
